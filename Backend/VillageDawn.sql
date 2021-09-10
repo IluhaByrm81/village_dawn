@@ -1,0 +1,11 @@
+CREATE DATABASE VillageDawn;
+USE VillageDawn;
+CREATE TABLE Users (
+  id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  username VARCHAR(100) NOT NULL,
+  email VARCHAR(100),
+);
+SELECT
+  *
+FROM
+  Users;
