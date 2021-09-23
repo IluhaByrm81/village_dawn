@@ -4,6 +4,8 @@
 
 Находится в разработке.
 
+![vilage_dawn_start](https://user-images.githubusercontent.com/75612696/134511858-6ae836d1-c8dc-430a-8018-60d245b87bfa.png)
+
 
 ## Available Scripts
 
